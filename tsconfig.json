@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "lib/components/index.ts", "lib/components/ConfirmModal", "lib/components/CardSimple", "lib/components/Backdrop"  ]
 }
